@@ -1,2 +1,24 @@
-# data_science
-Portfólio de projetos de Data Science
+[![author](https://img.shields.io/badge/author-mathmeza-red.svg)](https://www.linkedin.com/in/matheus-meza-26956bb6) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/carlosfab/data_science/issues)
+
+<p align="center">
+  <img src="banner_.png" >
+</p>
+
+# Matheus Meza de Oliveira
+<sub>*Fraud Prevention Analyst* at Mercado Livre</sub>
+
+Sou Analista de Prevenção à Fraude com experiências em detecções de perfis fraudulentos, linguagem SQL, Excel, Tableau e Python. Atualmente estou focado em aprender técnicas de Machine Learning e Inteligência Artificial para facilitar e garantir escalabilidade para evitar fraude.
+
+Estou cursando técnologo em Banco de Dados na Faculdade Impacta com prazo de finalização até o ano de 2022 para aperfeiçoar meus conhecimentos em liguagem SQL, Data Analytics, entender o processo de criação de um banco de dados, processos de ETL e entre outros. 
+
+**Background in:** Python, Machine Learning, Excel, SQL Server, Teradata, MYSQL and Tableau.
+
+**Links:**
+* [LinkedIn](https://www.linkedin.com/in/matheus-meza-26956bb6)
+* [Medium](https://medium.com/@matheusmeza1)
+
+
+## Projetos:
+Projetos publicados:
+
+* **Projetos em construção:** https://bitly.com/
