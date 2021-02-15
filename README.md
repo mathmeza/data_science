@@ -9,7 +9,7 @@
 
 Sou Analista de Prevenção à Fraude com experiências em detecções de perfis fraudulentos, linguagem SQL, Excel, Tableau e Python. Atualmente estou focado em aprender técnicas de Machine Learning e Inteligência Artificial para facilitar e garantir escalabilidade para evitar fraude.
 
-Estou cursando técnologo em Banco de Dados na Faculdade Impacta com prazo de finalização até o ano de 2022 para aperfeiçoar meus conhecimentos em liguagem SQL, Data Analytics, entender o processo de criação de um banco de dados, processos de ETL e entre outros. 
+Estou cursando técnologo em Banco de Dados na Faculdade Impacta com prazo de finalização até o ano de 2022 para aperfeiçoar meus conhecimentos em linguagem SQL, Data Analytics, entender o processo de criação de um banco de dados, processos de ETL e entre outros. 
 
 **Background in:** Python, Machine Learning, Excel, SQL Server, Teradata, MYSQL and Tableau.
 
