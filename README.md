@@ -22,3 +22,4 @@ Estou cursando técnologo em Banco de Dados na Faculdade Impacta com prazo de fi
 Projetos publicados:
 
 * **Análise dos dados Airbnb - Flórida USA:** https://bit.ly/3alUNhn
+* **Analisando a violência no Rio de Janeiro:** https://bit.ly/2Oa6kbp
