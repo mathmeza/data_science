@@ -14,7 +14,7 @@ Estou cursando técnologo em Banco de Dados na Faculdade Impacta com prazo de fi
 **Background in:** Python, Machine Learning, Excel, SQL Server, Teradata, MYSQL and Tableau.
 
 **Links:**
-* [LinkedIn](https://www.linkedin.com/in/matheus-meza-26956bb6)
+* [LinkedIn](linkedin.com/in/matheus-meza-de-oliveira-26956bb6)
 * [Medium](https://medium.com/@matheusmeza1)
 
 
