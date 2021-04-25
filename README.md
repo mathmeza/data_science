@@ -7,9 +7,9 @@
 # Matheus Meza de Oliveira
 <sub>*Fraud Prevention Analyst* at Mercado Livre</sub>
 
-Atuo como Analista de Prevenção à Fraude com experiências em detecções de perfis fraudulentos, linguagem SQL, Excel, Tableau e Python. Atualmente estou focado em aprender técnicas de Machine Learning e Inteligência Artificial para facilitar e garantir escalabilidade para evitar fraude, somando na criação de dashboards para acompanhamento de KPIs.
+Atuo como Analista de Prevenção à Fraude com experiências em detecções de perfis fraudulentos, linguagem SQL, Excel, Tableau e Python. Atualmente estou focado em aprender técnicas de Machine Learning e Inteligência Artificial para facilitar e garantir escalabilidade para evitar fraude, somando na criação de Dashboards para acompanhamento de KPIs.
 
-Curso técnologo em Banco de Dados na Faculdade Impacta com prazo de finalização até o ano de 2022 para aperfeiçoar meus conhecimentos em linguagem SQL, Data Analytics, entender o processo de criação de um banco de dados, processos de ETL e entre outros. 
+Curso tecnólogo em Banco de Dados na Faculdade Impacta com prazo de finalização até o ano de 2022 para aperfeiçoar meus conhecimentos em linguagem SQL, Data Analytics, entender o processo de criação de um banco de dados, processos de ETL e entre outros. 
 
 **Background in:** Python, Machine Learning, Excel, SQL Server, Teradata, MYSQL e Tableau.
 
