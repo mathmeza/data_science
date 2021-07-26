@@ -24,6 +24,10 @@ Projetos publicados:
 * **Análise dos dados Airbnb - Flórida USA:** https://bit.ly/3alUNhn
 * **Analisando a violência no Rio de Janeiro:** https://bit.ly/2Oa6kbp
 * **Automação Bot para WhatsApp:** https://bit.ly/2QMU5CV
-* **Scripping vagas do LinkedIn:** https://bit.ly/3nFBmoM
+* **Scripping de vagas do LinkedIn:** https://bit.ly/3nFBmoM
+* **Calculadora de Imóveis End-to-End:** https://bit.ly/3zD9lmK
+* **Identificação Churn c/ Machine Learning:** https://bit.ly/3rAYrLf
+* **SQL c/ Python:** https://bit.ly/2VfxhNP **e** https://bit.ly/3x7fW7g
+
 
 
