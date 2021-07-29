@@ -28,6 +28,7 @@ Projetos publicados:
 * **Calculadora de Imóveis End-to-End:** https://bit.ly/3zD9lmK
 * **Identificação Churn c/ Machine Learning:** https://bit.ly/3rAYrLf
 * **SQL c/ Python:** https://bit.ly/2VfxhNP **e** https://bit.ly/3x7fW7g
+* **Projeto: Identificação de fraude em cartão de crédito:** https://bit.ly/3iZd33h
 
 
 
